@@ -1,16 +1,13 @@
-### Heyyo! This is *Avinash*!👋
+# Avinash Annadurai
 
-<!--
-**Avinashh16/Avinashh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Applied AI Engineer** · LLM systems, RAG and document AI · Chennai
 
-Here are some ideas to get you started:
+I build LLM-powered systems for productionCurrently at ManageArtworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+Python · FastAPI · AsyncIO · LLMs · RAG · FAISS · Azure OpenAI · Azure Document Intelligence · Docker
+
+## Reach me
+
+[Portfolio](https://avinashh16.github.io) · [LinkedIn](https://www.linkedin.com/in/avinash-annadurai-572045196/) · avinashviji16@gmail.com
