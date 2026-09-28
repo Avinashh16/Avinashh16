@@ -2,7 +2,7 @@
 
 **Applied AI Engineer** · LLM systems, RAG and document AI · Chennai
 
-I build LLM-powered systems for productionCurrently at ManageArtworks.
+I build LLM-powered systems for production. Currently at ManageArtworks.
 
 ## Stack
 
